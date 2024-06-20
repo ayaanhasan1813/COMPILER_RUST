@@ -17,19 +17,35 @@ Welcome to the Rust Compiler project! This compiler is designed to transform sou
 Rust (latest stable version) - Install Rust
 Installation
 
-
+```bash
 Clone the repository:
 git clone https://github.com/yourusername/rust-compiler.git
 cd rust-compiler
 
+```
 
+
+
+
+
+```bash
 Build the project:
 cargo build --release
+
+```
+
+
+
+
+```bash
 Usage
 To compile a source file:
-
-
 cargo run -- <source_file>
+
+```
+
+
+
 Replace <source_file> with the path to your source file.
 
 # Project Structure
