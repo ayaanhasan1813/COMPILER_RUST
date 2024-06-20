@@ -64,5 +64,5 @@ To compile a file named example.lang, run:
 
 cargo run -- example.lang
 
-# Contirbitor
+# Contirbutor
 1. Ayaan Hasan
