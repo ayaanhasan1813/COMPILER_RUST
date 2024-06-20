@@ -1,0 +1,8 @@
+[package]
+name = "rcompiler"
+version = "0.1.0"
+authors = ["ayaanhasan <ayaanhasan.me>"]
+edition = '2018'
+
+[dependencies]
+lazy_static = "*"
